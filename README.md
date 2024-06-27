@@ -1,6 +1,5 @@
                               ![giphy](https://github.com/Nguyenvu11/Nguyenvu11/assets/85069392/3b6295cd-89f7-4eb4-bdf9-c7b1bbf21c28)
 
-
 👨‍💻 About Me :
 🔭 I’m working as a Software Engineer and contributing to java backend for building web applications.
 
