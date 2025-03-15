@@ -7,7 +7,7 @@
 
 ⚡ In my free time, I solve problems on Hackerrank and play volleyball and football.
 
-📫How to reach me: [![LinkedIn](https://img.shields.io/badge/pdnvu1111-blue)]([https://linkedin.com/in/www.linkedin.com/in/pdnvu1111](https://www.linkedin.com/in/pdnvu1111/)) 
+📫How to reach me: [![LinkedIn](https://img.shields.io/badge/pdnvu1111-blue)](https://www.linkedin.com/in/pdnvu1111/)
 
 
 
