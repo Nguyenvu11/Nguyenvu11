@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![1e97a24e-1adc-11e8-9758-2e995a9a3302](https://github.com/Nguyenvu11/Nguyenvu11/assets/85069392/d8eaeba6-ca1d-4f81-93a2-290d682604a4)
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 👨‍💻 About Me :
