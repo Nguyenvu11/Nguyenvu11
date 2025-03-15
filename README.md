@@ -7,12 +7,12 @@
 
 ⚡ In my free time, I solve problems on Hackerrank and play volleyball and football.
 
-📫How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pdnvu1111) 
+📫How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/pdnvu1111](https://www.linkedin.com/in/pdnvu1111/)) 
 
 
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010528781038) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pdnvu1111) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010528781038) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/pdnvu1111](https://www.linkedin.com/in/pdnvu1111/)) 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
