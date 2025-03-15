@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" width="200"/>
+    <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="200"/>
 </div>
 
 👨‍💻 About Me :
